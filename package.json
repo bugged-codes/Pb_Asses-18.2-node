@@ -19,7 +19,7 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bugged-codes/Pb_Asses-18-node.git"
+    "url": "git+https://github.com/bugged-codes/Pb_Asses-19-node.git"
   },
   "keywords": [
     "server",
@@ -30,7 +30,7 @@
   "author": "vipul",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bugged-codes/Pb_Asses-18-node/issues"
+    "url": "https://github.com/bugged-codes/Pb_Asses-19-node/issues"
   },
-  "homepage": "https://github.com/bugged-codes/Pb_Asses-18-node#readme"
+  "homepage": "https://github.com/bugged-codes/Pb_Asses-19-node#readme"
 }
